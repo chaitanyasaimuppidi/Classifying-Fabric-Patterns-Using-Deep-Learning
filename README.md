@@ -1,17 +1,17 @@
-#🧵 Pattern Sense: Classifying Fabric Patterns using Deep Learning
+**🧵 Pattern Sense: Classifying Fabric Patterns using Deep Learning**
 Pattern Sense is an intelligent deep learning system that automates the classification of fabric patterns such as stripes, polka dots, floral, and geometric prints. Designed for industries like fashion, textiles, and interior design, it improves efficiency in selecting, categorizing, and inspecting fabric patterns.
 
-#🎯 Purpose
+**🎯 Purpose**
 Automate the process of identifying and categorizing fabric patterns using deep learning.
 Enhance quality control by detecting defects and irregularities in fabric prints.
 Save time for designers and manufacturers by quickly identifying suitable patterns.
-#🔍 Features
+**🔍 Features**
 ✅ Automated Pattern Classification
 🧪 Defect Detection
 ⚡ Efficient Pattern Selection
 🧵 Industry Applications: Fashion, Textile Manufacturing, Interior Design
 📈 Quality Control Support
-#🛠 Technical Stack
+**🛠 Technical Stack**
 Programming Language: Python
 Frameworks/Libraries: TensorFlow, Keras, NumPy, Pandas, scikit-learn, Flask
 Image Processing: Image Augmentation, Normalization
